@@ -1,0 +1,10 @@
+[14:37:02 2023-08-26] FETCHING Version 2.22.2
+[14:37:02 2023-08-26] CREATING /home/pratush/.spicetify
+[14:37:02 2023-08-26] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.22.2/spicetify-2.22.2-linux-amd64.tar.gz
+[14:37:34 2023-08-26] EXTRACTING /home/pratush/.spicetify/spicetify.tar.gz
+[14:37:34 2023-08-26] SETTING EXECUTABLE PERMISSIONS TO /home/pratush/.spicetify/spicetify
+[14:37:34 2023-08-26] REMOVING /home/pratush/.spicetify/spicetify.tar.gz
+[14:37:34 2023-08-26] APPENDING /home/pratush/.spicetify to PATH in /home/pratush/.bashrc
+[14:37:34 2023-08-26] Restart your shell to have spicetify in your PATH.
+[14:37:34 2023-08-26] spicetify v2.22.2 was installed successfully to /home/pratush/.spicetify
+[14:37:34 2023-08-26] Run 'spicetify --help' to get started
