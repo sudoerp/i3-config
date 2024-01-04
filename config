@@ -1,6 +1,11 @@
 #set Super as $mod
 set $mod Mod4
 
+
+
+exec --no-startup-id xset 0 0 300
+
+
 #set Alt as $mod1
 set $mod1 Mod1
 
@@ -41,6 +46,7 @@ floating_modifier $mod
 
 # Default Terminal -> Alacritty
 bindsym $mod+Return exec alacritty
+bindsym $mod+Shift+Return exec riot
 
 # kill focused window
 bindsym $mod+Shift+q kill
